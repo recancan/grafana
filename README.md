@@ -54,7 +54,7 @@ Panduan ini menjelaskan langkah-langkah untuk menginstal Docker, menjalankan Gra
 
 9. Berikan izin eksekusi pada skrip:
    
-   sudo chmod +x autom-prom-node.sh
+   sudo chmod +x auto-prom-node.sh
    
 
 10. Jalankan skrip:
