@@ -48,7 +48,7 @@ Panduan ini menjelaskan langkah-langkah untuk menginstal Docker, menjalankan Gra
 
 8. Download skrip dengan curl:
    
-   curl -LO https://raw.githubusercontent.com/recancan/grafana/refs/heads/main/auto-prom-node.sh
+   curl -LO https://raw.githubusercontent.com/recancan/Grafana/refs/heads/main/auto-prom-node.sh
    
 
 
